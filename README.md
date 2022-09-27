@@ -4,14 +4,14 @@ A software tool equipped with TTS for accessible LaTeX-based document authoring 
 
 We have two main modules of this project. 
 
-1. ###IDE
+1. ### IDE
 A user interface, which is developed and extended on  TeXlipse plugin.
 
 2. ### TTS
 A text-to-speech module, consisting of language parsing for mathematical documentation, PDF accessibility, etc.
 
 
-##Related links:
+## Related links:
 
 https://github.com/alaplums?tab=repositories
 
