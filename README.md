@@ -15,7 +15,7 @@ A text-to-speech module, consisting of language parsing for mathematical documen
 
 https://github.com/alaplums?tab=repositories
 
-A working copy of the complete tool
+A working copy of the complete tool, installation guidelines, and overall tool documentation
 https://alap.lums.edu.pk/index.php/downloads/
 
 
